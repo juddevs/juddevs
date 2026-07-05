@@ -24,6 +24,14 @@ I'm currently learning Full Stack development by building practical projects and
 - Continuous learning
 - Creating practical projects
 
+## 📫 Contact
+
+Feel free to reach out via email:
+
+📧 juddevslab@gmail.com
+
 ---
 
 *"Learning by building, one project at a time."*
+
+
