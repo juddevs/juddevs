@@ -1,37 +1,24 @@
-# Hi, I'm Jud Dev 👋
-
-Building practical projects and learning every day.
-
-## 🌱 Current focus
-
-I'm currently learning Full Stack development by building practical projects and developing a solid foundation in software development.
-
-## 💻 Current skills
-
-- Python
-- Git
-- GitHub
-
-## 🚀 Areas I'm exploring
-
-- Full Stack development
-- Software architecture
-
-## 🎯 What motivates me
-
-- Building useful applications
-- Solving real problems
-- Continuous learning
-- Creating practical projects
-
-## 📫 Contact
-
-Feel free to reach out via email:
-
-📧 juddevslab@gmail.com
+# Jud Dev
+*Building practical projects | Python, Web Development & Automation*
 
 ---
 
-*"Learning by building, one project at a time."*
+### About Me
+I am a Full Stack development student focusing on building practical applications and developing a solid foundation in software architecture. My philosophy is simple: learn by building, one project at a time.
 
+### Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,python,mysql,git,github" alt="My Skills" />
+</p>
 
+* **Frontend:** HTML5, CSS3, SASS
+* **Backend & Databases:** Python, MySQL, ORMs
+* **Tools:** Git, GitHub
+
+### Current Focus
+* Software architecture and Clean Code methodologies
+* Advanced relational databases and Object-Relational Mapping (ORM)
+* Solving real-world problems through code and automation
+
+### Contact
+* 📧 juddevslab@gmail.com
